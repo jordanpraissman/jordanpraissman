@@ -1,9 +1,6 @@
-Jordan Praissman
+Name: Jordan Praissman
 
-High School:
-  - Wayne Hills High School
-  - Class of 2023
+Major: Computer Science
 
-College:
-  - Northeastern University
-  - Class of 2027
+Expected Graduation Date: April 2027
+
